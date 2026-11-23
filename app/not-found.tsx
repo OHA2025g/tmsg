@@ -1,0 +1,1 @@
+export default function NotFound(){return <main style={{padding:'15vh 8vw',background:'var(--cream)',minHeight:'100vh',color:'var(--navy)',fontFamily:'Georgia,serif'}}><p>TMSG / 404</p><h1 style={{fontSize:'clamp(40px,6vw,90px)',fontWeight:400}}>A new direction awaits.</h1><p>This page could not be found.</p><a href="/">Return to the group →</a></main>}
